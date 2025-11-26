@@ -10,3 +10,12 @@ PCB View
 
 Schematic View
 <img width="1070" height="731" alt="Screenshot 2025-11-26 114048" src="https://github.com/user-attachments/assets/d96c8bfc-2701-472d-a54a-f906ec0bc24f" />
+
+
+# BOM
+6x Keyswitches
+1x Seeed Studios Xiao RP2040 DIP
+6x Keycaps
+1x Rotary Encoder
+1x Rotary encoder Cap
+1x .91 inch OLED Display
